@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(246, 234, 234);
+}
+
+.r1{
+    text-align: center;
+    font-family: cursive;
+    color: brown;
+    text-shadow: 1px 1px;
+}
+button{
+    color: brown;
+    background-color: burlywood;
+    font-family: cursive;
+    text-shadow: 1px 1px;
+    padding: 2px 2px 2px 2px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}

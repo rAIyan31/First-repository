@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+
+*{
+    text-decoration: none;
+    font-family: cursive;
+}
+
+.navbar{
+    background-color: rgba(246, 141, 92, 0.753);
+    position: sticky;
+}
+
+.navdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    color: white;
+}
+
+li{
+    list-style: none;
+    display: inline-flex;
+    padding: 10px;
+}
+.webtitle{
+    color: white;
+    font-size: xx-large;
+}
